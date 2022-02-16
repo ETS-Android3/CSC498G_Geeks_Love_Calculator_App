@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_results_table.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\layout\\activity_results_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_html.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\html.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_sql.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\sql.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_languages.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\languages.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_programmer.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable-v24\\programmer.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_java_script.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\java_script.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_python.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\python.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_java.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable-v24\\java.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_percentage_heart.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable-v24\\percentage_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_edittext_default_state.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\edittext_default_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_heart_go.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\heart_go.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_c_.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\c_.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_drop_down_arrow.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable-v24\\drop_down_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_results_button.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\results_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_calculate_button.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\calculate_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_love_calculator.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\layout\\activity_love_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_css.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\css.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\drawable_c_pp.png.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\drawable\\c_pp.png"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\font_quintessential.ttf.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\font\\quintessential.ttf"
+    },
+    {
+        "merged": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omarm\\StudioProjects\\Assignment3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

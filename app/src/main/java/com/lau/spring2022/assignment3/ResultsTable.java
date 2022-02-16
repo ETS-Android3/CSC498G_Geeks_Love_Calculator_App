@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 public class ResultsTable extends AppCompatActivity {
 
+    // PAGE 3
+
     TextView java_result;
     TextView javascript_result;
     TextView c_result;
@@ -39,6 +41,8 @@ public class ResultsTable extends AppCompatActivity {
         html_result = (TextView) findViewById(R.id.html_text);
         css_result = (TextView) findViewById(R.id.css_text);
 
+        /* Receiving results from page to between the user and each programming language
+           and displaying the results in the table of each value to its corresponding language */
         Intent intent = getIntent();
 
         String java_value = intent.getStringExtra("java_val");

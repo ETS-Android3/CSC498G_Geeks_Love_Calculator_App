@@ -11,6 +11,8 @@ import android.widget.RelativeLayout;
 
 public class MainActivity extends AppCompatActivity {
 
+    //PAGE 1
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    // when the GO (TextView) is clicked, page 2 will appear
     public void clickGo(View view){
         Intent intent = new Intent(this, LoveCalculator.class);
         startActivity(intent);
